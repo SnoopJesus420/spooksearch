@@ -1,3 +1,5 @@
+# Written by SnoopJesus420 -> https://github.com/SnoopJesus420/
+
 import requests
 import json
 import argparse
